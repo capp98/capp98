@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm César</h1>
-<h3 align="center">☕ Back on rails with web development and always up to a cup of coffee</h3>
+<h3 align="center">☕ Back on rails with web development and always up for a cup of coffee</h3>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
